@@ -1,0 +1,3 @@
+READ ALL STUDENTS => http://localhost:5000/api/v1/students
+CREATE NEW STUDENT => http://localhost:5000/api/v1/student
+READ_SPECIFIC, UPDATE, DELETE => http://localhost:5000/api/v1/student/1
